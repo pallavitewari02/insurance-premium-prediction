@@ -1,4 +1,4 @@
-import sys
+import sys, os # os 
 import pandas as pd
 from src.exception import CustomException
 from src.utils import load_object
@@ -52,7 +52,7 @@ class CustomData:
                 "age": [self.age],
                 "sex": [self.sex],
                 "bmi": [self.bmi],
-                "children": [self.childern],
+                "children": [self.children],# children
                 "smoker": [self.smoker],
                 "region": [self.region],
                 
