@@ -21,3 +21,24 @@ KNN<br>
 * <b>Model Selection</b> : Tested all the models to check the RMSE & R-squared.<rb>
 * <b>Pickle File</b> : Selected model as per best RMSE score & R-squared and created pickle file using pickle library.<br>
 * <b>Web Application & Deployment</b> : Created a web application that takes all the necessary inputs from the user & shows the output. Then deployed project on the AWS Elastic Beanstalk.<br>
+________________________________________________________________________________________________________________________________________________________________
+
+# <b>Requirements</b>
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+Flask
+dill
+______________________________________________________________________________________________________________________________________________________________
+
+# <b>Deployment Link</b>
+http://insurancepremiumprediction-env-1.eba-4hs2pj5b.ap-south-1.elasticbeanstalk.com/predictdata
+
+______________________________________________________________________________________________________________________________________________________________
+
+# <b>Web Interface</b>
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.][(http://insurancepremiumprediction-env-1.eba-4hs2pj5b.ap-south-1.elasticbeanstalk.com/predictdata)]
