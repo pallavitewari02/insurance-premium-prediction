@@ -41,4 +41,4 @@ http://insurancepremiumprediction-env-1.eba-4hs2pj5b.ap-south-1.elasticbeanstalk
 ______________________________________________________________________________________________________________________________________________________________
 
 # <b>Web Interface</b>
-![(http://insurancepremiumprediction-env-1.eba-4hs2pj5b.ap-south-1.elasticbeanstalk.com/predictdata)]
+(http://insurancepremiumprediction-env-1.eba-4hs2pj5b.ap-south-1.elasticbeanstalk.com/predictdata)
