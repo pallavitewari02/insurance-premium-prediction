@@ -24,15 +24,15 @@ KNN<br>
 ________________________________________________________________________________________________________________________________________________________________
 
 # <b>Requirements</b>
-pandas
-numpy
-seaborn
-matplotlib
-scikit-learn
-catboost
-xgboost
-Flask
-dill
+pandas<br>
+numpy<br>
+seaborn<br>
+matplotlib<br>
+scikit-learn<br>
+catboost<br>
+xgboost<br>
+Flask<br>
+dill<br>
 ______________________________________________________________________________________________________________________________________________________________
 
 # <b>Deployment Link</b>
@@ -41,4 +41,4 @@ http://insurancepremiumprediction-env-1.eba-4hs2pj5b.ap-south-1.elasticbeanstalk
 ______________________________________________________________________________________________________________________________________________________________
 
 # <b>Web Interface</b>
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.][(http://insurancepremiumprediction-env-1.eba-4hs2pj5b.ap-south-1.elasticbeanstalk.com/predictdata)]
+![(http://insurancepremiumprediction-env-1.eba-4hs2pj5b.ap-south-1.elasticbeanstalk.com/predictdata)]
