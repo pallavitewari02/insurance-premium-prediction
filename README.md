@@ -8,16 +8,16 @@ ________________________________________________________________________________
 Applying machine learing tasks like Data Exploration, Data Cleaning, Feature Engineering, Model Building and model testing to build a solution that should able to predict the premium of the personal for health insurance.
 
 *<b>Data Exploration</b> : Exploring the dataset using pandas, numpy, matplotlib, plotly and seaborn.<br>
-*<b>Exploratory Data Analysis</b> : Plotted different graphs to get more insights about dependent and independent variables/features.
-*<b>Feature Engineering</b> : Numerical features scaled down and Categorical features encoded.
-*<b>Model Building</b> : In this step, first dataset Splitting is done. After that model is trained on different Machine Learning Algorithms such as:
-Linear Regression
-Decision Tree Regressor
-Random Forest Regressor
-Gradient Boosting Regressor
-XGBoost Regressor
-Catboost Regressor
-KNN
-*<b>Model Selection</b> : Tested all the models to check the RMSE & R-squared.
-*<b>Pickle File</b> : Selected model as per best RMSE score & R-squared and created pickle file using pickle library.
-*<b>Web Application & Deployment</b> : Created a web application that takes all the necessary inputs from the user & shows the output. Then deployed project on the AWS Elastic Beanstalk.
+*<b>Exploratory Data Analysis</b> : Plotted different graphs to get more insights about dependent and independent variables/features.<br>
+*<b>Feature Engineering</b> : Numerical features scaled down and Categorical features encoded.<br>
+*<b>Model Building</b> : In this step, first dataset Splitting is done. After that model is trained on different Machine Learning Algorithms such as:<br>
+Linear Regression<br>
+Decision Tree Regressor<br>
+Random Forest Regressor<br>
+Gradient Boosting Regressor<br>
+XGBoost Regressor<br>
+Catboost Regressor<br>
+KNN<br>
+*<b>Model Selection</b> : Tested all the models to check the RMSE & R-squared.<rb>
+*<b>Pickle File</b> : Selected model as per best RMSE score & R-squared and created pickle file using pickle library.<br>
+*<b>Web Application & Deployment</b> : Created a web application that takes all the necessary inputs from the user & shows the output. Then deployed project on the AWS Elastic Beanstalk.<br>
