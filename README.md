@@ -38,7 +38,3 @@ ________________________________________________________________________________
 # <b>Deployment Link</b>
 http://insurancepremiumprediction-env-1.eba-4hs2pj5b.ap-south-1.elasticbeanstalk.com/predictdata
 
-______________________________________________________________________________________________________________________________________________________________
-
-# <b>Web Interface</b>
-![Insurance Premium Prediction](http://insurancepremiumprediction-env-1.eba-4hs2pj5b.ap-south-1.elasticbeanstalk.com/predictdata)
